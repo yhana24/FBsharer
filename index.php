@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>FB Sharer</title>
+    <title>Facebook Sharer</title>
     <!-- FB Sharer -->
     <meta name="og:url" content="YOUR WEBSITE" />
     <meta name="og:type" content="website" />
